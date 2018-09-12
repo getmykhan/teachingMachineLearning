@@ -1,1 +1,1 @@
-# teachingMachineLearning
+# Machine Learning
