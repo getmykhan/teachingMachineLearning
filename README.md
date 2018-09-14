@@ -3,7 +3,13 @@
 ### 1. Getting Started
 * Fork this repository and clone the same to your local file system.
 * Install Anaconda.
+#### 1.1 To Clone the Repo:
 
+![](https://github.com/getmykhan/teachingMachineLearning/blob/master/clone_repo.png)
+
+*Read this for full tutorial:* https://services.github.com/on-demand/github-cli/clone-repo-cli
+
+**Note:** Once you have cloned it **`git pull`** before class.
 
 ### Resources:
 1. **Google Colab:** https://colab.research.google.com/
