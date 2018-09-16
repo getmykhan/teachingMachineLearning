@@ -11,6 +11,8 @@
 
 **Note:** Once you have cloned it **`git pull`** before class.
 
+### 2. Introduction to Python for Machine Learning
+
 ### Resources:
 1. **Google Colab:** https://colab.research.google.com/
 2. **Google Dataset Search:** https://toolbox.google.com/datasetsearch
