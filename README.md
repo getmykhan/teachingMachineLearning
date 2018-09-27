@@ -1,5 +1,5 @@
 # Python for Machine Learning
-
+![](https://www.dataiku.com/static/img/learn/guide/getting-started/getting-started-with-python/logo-stack-python.png)
 ### 1. Getting Started
 * Fork this repository and clone the same to your local file system.
 * Install Anaconda.
